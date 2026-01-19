@@ -2,7 +2,7 @@
 
 **`Desenvolvedor web`**
 
-Me chamo João Victor Santos Souza sou um estudante de 22 anos apaixonado por tecnologia e focado em se tornar um desenvolvedor front-end habilidoso, atualmente cursando análise e desenvolvimento de sistemas, buscandp a primeira oportunidade no mercado de tecnologia.  
+Me chamo João Victor Santos Souza sou um estudante de 22 anos apaixonado por tecnologia e focado em se tornar um desenvolvedor front-end habilidoso, atualmente cursando análise e desenvolvimento de sistemas, buscando a primeira oportunidade no mercado de tecnologia.  
 
 ---
 
