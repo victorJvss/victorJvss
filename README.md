@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João victor
 
-**`Desenvolveddor web`**
+**`Desenvolvedor web`**
 
 Me chamo João Victor Santos Souza sou um estudante de 22 anos apaixonado por tecnologia e focado em se tornar um desenvolvedor front-end habilidoso, atualmente cursando análise e desenvolvimento de sistemas.  
 
